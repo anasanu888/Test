@@ -1,0 +1,21 @@
+diff --git a/sampleFile b/sampleFile
+index 30058cd..f420fb3 100644
+--- a/sampleFile
++++ b/sampleFile
+@@ -1 +1,6 @@
++
+ #This is the file i am entering data from github UI
++
++
++#i AM entering the second line from linux machine
++
+diff --git a/script.sh b/script.sh
+index 7da2a19..fa8debc 100755
+--- a/script.sh
++++ b/script.sh
+@@ -7,4 +7,4 @@ echo "Current Date and Time: $(date)"
+ echo "System Uptime: $(uptime -p)" 
+ echo "Logged in Users: $(who)"
+ 
+-
++echo "Just checking"

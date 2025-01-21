@@ -7,4 +7,4 @@ echo "Current Date and Time: $(date)"
 echo "System Uptime: $(uptime -p)" 
 echo "Logged in Users: $(who)"
 
-
+echo "Just checking"
